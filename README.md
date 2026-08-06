@@ -12,7 +12,7 @@ Python 3.10 with the following packages:
 * matplotlib
 
 ## Output
-<img width="2738" height="1133" alt="query_result" src="https://github.com/user-attachments/assets/9859a1c8-d658-451d-90a1-d3f1a10e58bd" />
+<img width="2738" height="1133" alt="query_result" src="https://github.com/sufia5125/FaceRecogSystem/blob/fe7747d8852b891a218b0421abaadbac6ca1e948/query_result.png" />
 
 ## Results
 
